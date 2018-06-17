@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\git repositories\fireworks\fireworks\fireworks\main.cpp(8): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+d:\git repositories\fireworks\fireworks\fireworks\main.cpp(29): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+d:\git repositories\fireworks\fireworks\fireworks\main.cpp(67): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+d:\git repositories\fireworks\fireworks\fireworks\main.cpp(68): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+d:\git repositories\fireworks\fireworks\fireworks\main.cpp(70): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+d:\git repositories\fireworks\fireworks\fireworks\main.cpp(95): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\git repositories\fireworks\fireworks\fireworks\main.cpp(111): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\git repositories\fireworks\fireworks\fireworks\main.cpp(129): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\git repositories\fireworks\fireworks\fireworks\main.cpp(145): warning C4244: "argument": konwersja z "float" do "DWORD", możliwa utrata danych
+  Fireworks.vcxproj -> D:\Git repositories\Fireworks\Fireworks\Debug\Fireworks.exe
